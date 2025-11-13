@@ -1,6 +1,6 @@
 """"
 @file stack.py
-@brief Stack data structure implementation for the game platform backend.
+@brief Stack (LIFO)data structure implementation for the game platform backend.
 
 This module defines the Stack class, a simple Last-In-First-Out (LIFO)
 data structure used throughout the backend for undo systems,
